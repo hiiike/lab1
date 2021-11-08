@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\oop\lab1.3\lab1.3\FuzzyNumber.cpp(64,11): warning C4804: '>': unsafe use of type 'bool' in operation
+E:\oop\lab1.3\lab1.3\FuzzyNumber.cpp(76,11): warning C4804: '>': unsafe use of type 'bool' in operation
+     Creating library E:\oop\lab1.3\Debug\UnitTest1.lib and object E:\oop\lab1.3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\oop\lab1.3\Debug\UnitTest1.dll
