@@ -1,0 +1,12 @@
+﻿  lab1.5_test.cpp
+E:\oop\lab1.5\lab1.5\Pair.cpp(17,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(17,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(21,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(21,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(36,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(36,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(47,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(49,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.5\lab1.5\Pair.cpp(51,61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library E:\oop\lab1.5\Debug\lab1.5_test.lib and object E:\oop\lab1.5\Debug\lab1.5_test.exp
+  lab1.5_test.vcxproj -> E:\oop\lab1.5\Debug\lab1.5_test.dll
