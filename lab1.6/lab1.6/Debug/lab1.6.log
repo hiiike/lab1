@@ -1,0 +1,17 @@
+﻿  Complex.cpp
+E:\oop\lab1.6\lab1.6\Complex.cpp(25,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(27,50): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(29,88): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(31,88): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(46,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(46,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(50,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(50,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(66,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(66,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(77,55): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(79,70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\lab1.6\lab1.6\Complex.cpp(81,70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Sourse.cpp
+  Generating Code...
+  lab1.6.vcxproj -> E:\oop\lab1.6\Debug\lab1.6.exe
